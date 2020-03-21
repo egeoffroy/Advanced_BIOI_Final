@@ -9,20 +9,32 @@ COLOC Installation:
 	install.packages(‘coloc’)
 
 eCAVIAR/CAVIAR Installation: 
+
+```
 	git clone https://github.com/fhormoz/caviar.git
 	cd caviar
 	make
+```
+
 
 FASTENLOC Installation:
   -	DAP-G Instructions:
+    ```
     git clone https://github.com/xqwen/dap.git
     cd dap
     make
+    ```
+    
   -	TORUS Instructions:
+    ```
     git clone https://github.com/xqwen/torus.git
     cd torus
     make
+    ```
+    
   -	FASTENLOC Instructions:
+  ```
     git clone https://github.com/xqwen/fastenloc.git
     cd fastenloc
     make
+    ```
