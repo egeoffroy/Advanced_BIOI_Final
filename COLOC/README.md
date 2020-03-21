@@ -2,7 +2,7 @@
 To run COLOC with a simulated dataset of 50 SNPs and 200 samples:
 
 ```
-Rscript coloc_sim.R
+Rscript coloc_sim_data.R
 ```
 
 ## YRI and Wojcik GWAS Summary Statistics
