@@ -10,11 +10,11 @@ COLOC Installation:
 
 eCAVIAR/CAVIAR Installation: 
 
-```
+	```
 	git clone https://github.com/fhormoz/caviar.git
 	cd caviar
 	make
-```
+	```
 
 
 FASTENLOC Installation:
@@ -33,7 +33,7 @@ FASTENLOC Installation:
     ```
     
   -	FASTENLOC Instructions:
-  ```
+    ```
     git clone https://github.com/xqwen/fastenloc.git
     cd fastenloc
     make
