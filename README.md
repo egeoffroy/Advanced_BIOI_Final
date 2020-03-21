@@ -5,9 +5,11 @@ Comparison of COLOC, FASTENLOC, and eCAVIAR Fine-Mapping Methods
 Software Required: GSL, R, Python3, C, C++
 
 COLOC Installation: 
+	```
 	R
 	install.packages(‘coloc’)
-
+	```
+	
 eCAVIAR/CAVIAR Installation: 
 
 	```
